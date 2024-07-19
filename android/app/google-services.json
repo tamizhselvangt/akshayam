@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000539781845",
+    "project_id": "hdrss-web",
+    "storage_bucket": "hdrss-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000539781845:android:c2c3e101bd580e36e8405c",
+        "android_client_info": {
+          "package_name": "com.example.akshayam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRCDX79Vu0KDM42R6gHEDzzqnxhx2M9IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
